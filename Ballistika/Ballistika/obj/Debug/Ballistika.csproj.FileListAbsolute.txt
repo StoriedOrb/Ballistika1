@@ -1,0 +1,10 @@
+C:\Users\stud\284\Pushludov\Сданы\Ballistika\Ballistika\bin\Debug\Ballistika.exe.config
+C:\Users\stud\284\Pushludov\Сданы\Ballistika\Ballistika\bin\Debug\Ballistika.exe
+C:\Users\stud\284\Pushludov\Сданы\Ballistika\Ballistika\bin\Debug\Ballistika.pdb
+C:\Users\stud\284\Pushludov\Сданы\Ballistika\Ballistika\obj\Debug\Ballistika.csprojAssemblyReference.cache
+C:\Users\stud\284\Pushludov\Сданы\Ballistika\Ballistika\obj\Debug\Ballistika.Ballistika.resources
+C:\Users\stud\284\Pushludov\Сданы\Ballistika\Ballistika\obj\Debug\Ballistika.Properties.Resources.resources
+C:\Users\stud\284\Pushludov\Сданы\Ballistika\Ballistika\obj\Debug\Ballistika.csproj.GenerateResource.cache
+C:\Users\stud\284\Pushludov\Сданы\Ballistika\Ballistika\obj\Debug\Ballistika.csproj.CoreCompileInputs.cache
+C:\Users\stud\284\Pushludov\Сданы\Ballistika\Ballistika\obj\Debug\Ballistika.exe
+C:\Users\stud\284\Pushludov\Сданы\Ballistika\Ballistika\obj\Debug\Ballistika.pdb
